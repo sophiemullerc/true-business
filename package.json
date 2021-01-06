@@ -1,7 +1,7 @@
 {
   "dependencies": {
     "@google/maps": "^0.5.5",
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "bcrypt": "^2.0.1",
     "cloudinary-core": "^2.5.0",
     "commander": "^2.18.0",
